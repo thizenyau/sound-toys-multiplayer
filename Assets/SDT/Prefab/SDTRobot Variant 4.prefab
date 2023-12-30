@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4305874037604929221
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 948132612003096356, guid: 45ac7ca3b934a479da97d39ea9e2c976, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1130352658952281617, guid: 45ac7ca3b934a479da97d39ea9e2c976, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1453286620311438198, guid: 45ac7ca3b934a479da97d39ea9e2c976, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2054748851104287884, guid: 45ac7ca3b934a479da97d39ea9e2c976, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3908898705335691156, guid: 45ac7ca3b934a479da97d39ea9e2c976, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3908898705335691156, guid: 45ac7ca3b934a479da97d39ea9e2c976, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3908898705335691156, guid: 45ac7ca3b934a479da97d39ea9e2c976, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3908898705335691156, guid: 45ac7ca3b934a479da97d39ea9e2c976, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3908898705335691156, guid: 45ac7ca3b934a479da97d39ea9e2c976, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3908898705335691156, guid: 45ac7ca3b934a479da97d39ea9e2c976, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3908898705335691156, guid: 45ac7ca3b934a479da97d39ea9e2c976, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3908898705335691156, guid: 45ac7ca3b934a479da97d39ea9e2c976, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3908898705335691156, guid: 45ac7ca3b934a479da97d39ea9e2c976, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3908898705335691156, guid: 45ac7ca3b934a479da97d39ea9e2c976, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5357153426770627613, guid: 45ac7ca3b934a479da97d39ea9e2c976, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7948557716220634356, guid: 45ac7ca3b934a479da97d39ea9e2c976, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8072966127741596074, guid: 45ac7ca3b934a479da97d39ea9e2c976, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8276008239104141039, guid: 45ac7ca3b934a479da97d39ea9e2c976, type: 3}
+      propertyPath: m_Name
+      value: SDTRobot Variant 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8276008239104141039, guid: 45ac7ca3b934a479da97d39ea9e2c976, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8738900656716032319, guid: 45ac7ca3b934a479da97d39ea9e2c976, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 45ac7ca3b934a479da97d39ea9e2c976, type: 3}
