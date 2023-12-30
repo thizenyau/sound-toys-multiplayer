@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8388333356005490686
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1726983212681515102, guid: 919359cd8d6b4436a8406739e3beb990, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2659898280835773820, guid: 919359cd8d6b4436a8406739e3beb990, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3289874407301033449, guid: 919359cd8d6b4436a8406739e3beb990, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3419741855340690092, guid: 919359cd8d6b4436a8406739e3beb990, type: 3}
+      propertyPath: m_Name
+      value: SDTRobot Variant 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3419741855340690092, guid: 919359cd8d6b4436a8406739e3beb990, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3738523828483700919, guid: 919359cd8d6b4436a8406739e3beb990, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696405098503950543, guid: 919359cd8d6b4436a8406739e3beb990, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5297368713650118453, guid: 919359cd8d6b4436a8406739e3beb990, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5802717876749581159, guid: 919359cd8d6b4436a8406739e3beb990, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5908939853363085906, guid: 919359cd8d6b4436a8406739e3beb990, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7750736834494954455, guid: 919359cd8d6b4436a8406739e3beb990, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7750736834494954455, guid: 919359cd8d6b4436a8406739e3beb990, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7750736834494954455, guid: 919359cd8d6b4436a8406739e3beb990, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7750736834494954455, guid: 919359cd8d6b4436a8406739e3beb990, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7750736834494954455, guid: 919359cd8d6b4436a8406739e3beb990, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7750736834494954455, guid: 919359cd8d6b4436a8406739e3beb990, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7750736834494954455, guid: 919359cd8d6b4436a8406739e3beb990, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7750736834494954455, guid: 919359cd8d6b4436a8406739e3beb990, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7750736834494954455, guid: 919359cd8d6b4436a8406739e3beb990, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7750736834494954455, guid: 919359cd8d6b4436a8406739e3beb990, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 919359cd8d6b4436a8406739e3beb990, type: 3}
